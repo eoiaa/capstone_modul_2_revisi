@@ -1,0 +1,33 @@
+# Direktori Virtual Environment
+venv/
+.env/
+
+# File konfigurasi pribadi
+*.env
+config.json
+
+# File cache
+__pycache__/
+*.pyc
+
+# File log
+*.log
+
+# Direktori hasil build
+build/
+dist/
+
+# Folder IDE
+.vscode/
+.idea/
+
+# Mengabaikan file Tableau Workbook
+~Supermarket Customer Dashboard - Azzarya__15864.twbr
+Supermarket Customer Dashboard - Azzarya.twbx
+
+# Mengabaikan file Jupyter Notebook tertentu
+Capstone Project Module 2 Example.ipynb
+Capstone_Modul_2 - Format.ipynb
+
+# Mengabaikan file Excel
+supermarket_analysis.xlsx
